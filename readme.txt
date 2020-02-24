@@ -1,0 +1,1 @@
+Set limit in "localdatabase.xml" to 400 so that it matches $maxrecs in "rasp.settings.php"

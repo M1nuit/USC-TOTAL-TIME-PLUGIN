@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cup>
+	<infos>
+		<nom>$z$o$999USC</nom>
+		<total_map>7</total_map>
+	</infos>
+	
+	<color>
+		<color1>$999</color1>
+		<color2>$FA0</color2>
+	</color>
+	
+	<bdd>
+		<host>localhost</host>
+		<user>DBUSER</user>
+		<password>DBPASS</password>
+		<database>n12385_TMF05141_xaseco1</database>
+        <!-- Nom field is where im left confused, from the last file it looks like it should share same name with db -->
+		<nom>DATABASENAME</nom>					
+	</bdd>
+	
+	<manialink>
+		<score>
+			<text_score>$z$o$999USC $fff- $FA0Total time</text_score>
+			<posx>48.2</posx>
+			<posy>17</posy>
+		</score>
+		<finish>
+			<text_finish>$z$o$999USC $fff- $FA0Finish</text_finish>
+			<posx>48.2</posx>
+			<posy>-5.2</posy>
+		</finish>
+	</manialink>
+</cup>
